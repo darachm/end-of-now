@@ -6,16 +6,22 @@
                 if (path.endsWith('index.html')) {
                     path = path.substr(path, path.length - 'index.html'.length);
                 }
-                var url = 'https://play.workadventu.re/_/global/'+window.location.host+path+'map.json';
+                var url = 'https://play.workadventu.re/_/global/'+window.location.host+path+'main.json';
                 document.getElementById('mapLink').href = url;
                 document.getElementById('mapLink').innerText = url;
             };
         </script>
+    <style>
+        body {
+            line-height:1.2em;
+            font-family:sans-serif;
+            }
+        li {padding:1em;}
+    <style>
     </head>
     <body>
         This website contains a map for <a href="https://workadventu.re">Workadventu.re</a>.
-        <br/>
-        You can access this map at <a id="mapLink" href=""></a>
+        Enter <a href="https://play.workadventu.re/_/global/darachm.github.io/end-of-now/main.json">here</a>.
 
     <h3>README</h3>
     <ul>
