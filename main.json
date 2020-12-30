@@ -253,7 +253,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.chess.com\/play\/computer"
+                 "value":"https:\/\/playpager.com\/embed\/chess\/index.html"
                 }],
          "type":"tilelayer",
          "visible":true,
