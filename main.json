@@ -313,7 +313,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/youtube.com\/playlist?list=PLPW0-PVVOQlX5fwEm_5naF0Sok3W3d6Zh"
+                 "value":"data:text\/html,<html>huh didn't know what to put on this one...<\/html>"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -506,7 +506,7 @@
          "x":0,
          "y":0
         }],
- "nextlayerid":39,
+ "nextlayerid":41,
  "nextobjectid":2,
  "orientation":"orthogonal",
  "renderorder":"right-down",
