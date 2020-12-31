@@ -157,7 +157,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.reddit.com\/r\/TurnipStonkMarket\/"
+                 "value":"https:\/\/ac-turnip.com\/"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -175,7 +175,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/stonk.fund\/whitepaper\/"
+                 "value":"https:\/\/www.money.org\/clubsrrr"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -211,7 +211,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"http:\/\/radio.garden\/search"
+                 "value":"https:\/\/kfjc.org\/player\/"
                 }],
          "type":"tilelayer",
          "visible":true,
