@@ -271,7 +271,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"fish"
+                 "value":"https:\/\/www.myearthcam.com\/dougsdiscus"
                 }],
          "type":"tilelayer",
          "visible":true,
